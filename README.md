@@ -35,11 +35,11 @@ I dag erum bara að vinna i koða og skjair. Naðum að senda a eitt skjainn eð
 
 ## Dagur 10 
 I dag unnum við með koða og byrja að keyra koða og laga hann skref by skref. Við splittum i tveir, tveir unnið með koða og tveir unið með 2 skjair og profuðum að keyra með 2 litla oled skjair. 
-[![Þetta er myndir af okkur að vinna saman i koðunum og skjair ](https://cdn.discordapp.com/attachments/1102953570636140640/1106586803827380284/IMG_8946.png)]
+[![Þetta er myndir af okkur að vinna saman i koðunum og skjair ]<img src="https://cdn.discordapp.com/attachments/1102953570636140640/1106586803827380284/IMG_8946.png" width="50%" height="50%">]
 
 ## Dagur 11
 Koðinn er komið fra hinir tveir og erum bara við allir að reyna klara að senda milli 2 skjair eftir. Skjair fekk upplysingar og naði að prenta ut en ekki milli 2 skjair ennþa.
-[![Þetta er myndir af skjair og set up](https://cdn.discordapp.com/attachments/1102953570636140640/1106586806759202826/IMG_8948.png)]
+[![Þetta er myndir af skjair og set up]<img src="https://cdn.discordapp.com/attachments/1102953570636140640/1106586806759202826/IMG_8948.png" width="50%" height="50%">]
 
 ## Dagur 12 
 Þetta er siðasti timi, við naðum að klara koða, setja upp, tengja snururnar og skjair og naðum að keyra leikinn okkar. Naðum að keyra og naðum lokaverkefni okkur.
