@@ -41,4 +41,4 @@ I dag unnum við með koða og byrja að keyra koða og laga hann skref by skref
 Koðinn er komið fra hinir tveir og erum bara við allir að reyna klara að senda milli 2 skjair eftir. Skjair fekk upplysingar og naði að prenta ut en ekki milli 2 skjair ennþa.
 
 ## Dagur 12 
-Þetta er siðasti timi, við naðum að klara koða, setja upp, tengja snururnar og skjair og naðum að keyra leikinn okkar. Naðum að keyra og naðum lokaverkefni okkur.
+Þetta er siðasti timi, við naðum ekki að klara koða,  naðum setja upp, tengja snururnar og skjair og naðum ekki að keyra leikinn okkar. 
