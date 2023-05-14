@@ -42,3 +42,6 @@ Koðinn er komið fra hinir tveir og erum bara við allir að reyna klara að se
 
 ## Dagur 12 
 Þetta er siðasti timi, við naðum ekki að klara koða,  naðum setja upp, tengja snururnar og skjair og naðum ekki að keyra leikinn okkar. 
+
+## helginn siðasta 
+náði tengingu náði að klára koða nápi ekki að nota inbyggt led i tokkum vor 10 min eftir til skils her er myndband  (https://youtu.be/B-hs2xQD_yI)
